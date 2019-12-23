@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <button class="btn btn-success">Click here</button>
       </header>
     </div>
   );
